@@ -2,9 +2,6 @@
 
 A web-based Loan Management System built with **Node.js**, **Express.js**, and **MySQL**.
 
-## 🌐 Live Demo
-👉 [https://loan-management-system-production-64b1.up.railway.app](https://loan-management-system-production-64b1.up.railway.app)
-
 ## 📸 Screenshots
 
 ### Login Page
